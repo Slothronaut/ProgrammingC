@@ -1,0 +1,186 @@
+
+
+                      COURSEWARE ASSET MANAGEMENT SYSTEM
+
+   *--------------------------------------------------------------------------+
+   |                                                                          |
+   |                        COURSEWARE BUILD LIST                             |
+   |                             (DELEGATE)                                   |
+   |                                                                          |
+   +--------------------------------------------------------------------------*
+
+
+   Date Generated: 17-Nov-2014 16:59
+
+
+   +--------------------+
+   | COURSE INFORMATION |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Course Title     :  Advanced C Programming                              
+                                                                       
+      Course Code      :  QACADV                               
+      Course Version   :  1.1                            
+      Course Author    :  CA                             
+      Course Company   :  QA Ltd                            
+      First Run Date   :  18-Mar-2014                            
+      Setup Image      :                                 
+	  Major Version    :  False                        
+	  Course Rework    :  0-25%                        
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+
+   +====================+
+   | BINDER 1           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  A4 Ring Binder
+                                                                       
+            
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Delegate Guide
+                                 
+         Size             :  A4 Portrait
+         Divider          :  None
+         Render in        :  Colour
+         Present as       :  Double sided
+         Material         :  Paper 100G
+         Material Colour  :  White
+                           
+
+         Additional Print Instructions
+         -----------------------------
+
+         
+                                
+
+         Files                                                             
+         -----                                                             
+                                                                       
+         DG_00_QACADV_contents
+         DG_01_Introduction
+         DG_02_Standard C
+         DG_03_The Preprocessor
+         DG_04_Declarations
+         DG_05_Pointers
+         DG_06_Arrays
+         DG_07_Arrays of Arrays
+         DG_08_Structures
+         DG_09_Dynamic Memory Management
+         DG_10_Standard Library - Process Control
+         DG_11_Standard Library - Useful Functions
+         DG_12_Searching and Sorting
+         DG_13_Linked Lists
+         DG_14_Binary Trees
+         DG_15_The Way Ahead
+         DGA_0B_Common C Pitfalls
+         DGA_0C_Internationalisation
+         DGA_0D_Balanced Binary Trees
+         DGA_0E_Modular Programming
+         DGA_0F_The Make Utility
+         DGA_0G_Introduction to Threads
+         DGA_0H_Introduction to Linux
+         DGA_0J_Bibliography
+         DGA_0A_Language Summary
+         DGA_0I_Microsoft Visual Studio
+                                                         
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 1=================================/
+
+   +====================+
+   | BINDER 2           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  Coil Bound (long edge)
+                                                                       
+            
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Exercise Guide
+                                 
+         Size             :  A4 Portrait
+         Divider          :  None
+         Render in        :  Colour
+         Present as       :  Double sided
+         Material         :  Paper 100G
+         Material Colour  :  White
+                           
+
+         Additional Print Instructions
+         -----------------------------
+
+         
+                                
+
+         Files                                                             
+         -----                                                             
+                                                                       
+         EG_00_EG_Contents
+         EG_01_Introduction_of_Practicals
+         EG_02_Standard_C_Exercise
+         EG_03_The_Preprocessor_Exercise
+         EG_04_Declarations_Exercise
+         EG_05_Pointers_Exercise
+         EG_06_Arrays_Exercise
+         EG_07_Arrays_of_Arrays_Exercise
+         EG_08_Structures_Exercise
+         EG_09_Dynamic_Memory_Exercise
+         EG_10_Process_Control_Exercise
+         EG_11_Other_Useful_Functions_Exercise
+         EG_12_Sorting_And_Searching_Exercise
+         EG_13_Linked_Lists_Exercise
+         EG_14_Binary_Trees_Exercise
+                                                         
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 2=================================/
+
+
+
+   +--------------------+
+   |  ADDITIONAL ITEMS  |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Stationery
+      ==========
+
+      1 x Delegate pack (Pad, Pen and Namecard) - A4
+         (1 per delegate)
+
+
+
+      Pick and Pack
+      =============
+
+      
+
+      Additional Printed Items
+      ========================
+
+      
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+   +--------------------------+
+   |  ADDITIONAL INFORMATION  |
+   +--------------------------+-----------------------------------------------+
+   |                                                                          |
+      
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+QA Ltd 2014
