@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649324510 source:c:\users\administrator\desktop\qacadv\signals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<unistd.h>
+	<windows.h>
+

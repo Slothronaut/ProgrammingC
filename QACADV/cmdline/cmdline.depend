@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649234740 source:c:\users\administrator\desktop\qacadv\cmdline\main.c
+	<stdio.h>
+	<stdlib.h>
+
